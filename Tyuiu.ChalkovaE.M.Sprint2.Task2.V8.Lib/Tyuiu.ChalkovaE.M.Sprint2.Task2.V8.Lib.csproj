@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{00F4B6DF-3FA9-43A2-9949-B6C69CBC1ABE}</ProjectGuid>
+    <ProjectGuid>{A4D5AF8D-421B-4CAD-B1DF-4C9C805BA64A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.ChalkovaE.M.Sprint2.Task2.V16.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.ChalkovaE.M.Sprint2.Task2.V16.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.ChalkovaE.M.Sprint2.Task2.V8.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.ChalkovaE.M.Sprint2.Task2.V8.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

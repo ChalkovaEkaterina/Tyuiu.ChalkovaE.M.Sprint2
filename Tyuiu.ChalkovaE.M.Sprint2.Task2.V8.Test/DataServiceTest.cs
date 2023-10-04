@@ -20,7 +20,6 @@ namespace Tyuiu.ChalkovaE.M.Sprint2.Task2.V8.Test
             bool wait = true;
 
             Assert.AreEqual(wait, res);
-
         }
     }
 }
