@@ -16,7 +16,7 @@ namespace Tyuiu.ChalkovaE.M.Sprint2.Task7.V15
             Console.Title = "Спринт #2| Выполнила: Чалкова Е. М. | ИИПб-23-2";
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* Спринт #2                                                                    *");
-            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                      *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринтy                      *");
             Console.WriteLine("* Задание #7                                                                   *");
             Console.WriteLine("* Вариант #15                                                                  *");
             Console.WriteLine("* Выполнила Чалкова Е. М. | ИИПб-23-2                                          *");
